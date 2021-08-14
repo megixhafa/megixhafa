@@ -1,0 +1,3 @@
+- @megixhafa - software engineer 
+- Tirana, Albania
+- megi.xhafa@outlook.com
