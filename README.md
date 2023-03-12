@@ -15,6 +15,5 @@
 
 | | |
 | ----------- | ----------- |
-![](https://github-readme-streak-stats.herokuapp.com/?user=megixhafa&theme=calm&hide_border=false) | ![](https://github-readme-stats.vercel.app/api?username=megixhafa&show_icons=true&theme=calm)
-
+![](https://github-readme-stats.vercel.app/api?username=megixhafa&show_icons=true&theme=calm&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=megixhafa&theme=calm&hide_border=true)
 
