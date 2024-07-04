@@ -2,7 +2,7 @@
 
 #
 
-##### It's Meg! I'm a software engineer located in Albania, currently completing my master's degree while working on mobile dev. 
+##### It's Meg! I'm a software engineer from Albania, currently working in Decathlon Digital France as a Data Quality Manager. 
 
 #
 
